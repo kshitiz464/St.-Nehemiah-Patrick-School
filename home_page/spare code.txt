@@ -1,0 +1,48 @@
+spare code
+
+<!-- mb-6 mb-md-0 me-md-auto col-md-6 -->
+<!-- col-md-6 -->
+
+
+
+
+
+<!-- <div class="col mb-3">
+
+</div>
+
+<div class="col mb-3 ftr" style=" color:#d5d5d5;">
+    <a href="index.html" class="d-flex align-items-center mb-3 link-dark text-decoration-none logo-ftr ftr">
+    </a>
+</div>
+
+<div class="col mb-3 ftr" style=" color:#d5d5d5;">
+    <h5>About Us</h5>
+    <ul class="nav flex-column">
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Our History</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Facilities</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Activities</a></li>
+    </ul>
+</div>
+
+<div class="col mb-3 ftr" style=" color:#d5d5d5;">
+    <h5>Notice Board</h5>
+    <ul class="nav flex-column">
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Notice</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">News</a></li>
+    </ul>
+</div>
+
+<div class="col mb-3 ftr" style=" color:#d5d5d5;">
+    <h5>Quick Links</h5>
+    <ul class="nav flex-column">
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Gallery</a></li>
+        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Contact Us</a></li>
+    </ul>
+</div>
+
+
+</footer> -->
+
+
+
