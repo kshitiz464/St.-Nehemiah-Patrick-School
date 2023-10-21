@@ -262,6 +262,10 @@ a {
     font-weight: 700;
 }
 
+.school_news {
+    background-color: #fc8231;
+}
+
 .b {
     font-size: 2rem;
     font-weight: 700;
@@ -284,13 +288,13 @@ a {
 .principal_section_right {
     position: relative;
     top: 14rem;
-    left: 13rem;
+    left: 10rem;
 
 }
 
 .try3 {
     position: relative;
-    left: 20rem
+    left: 15rem
 }
 
 
@@ -365,7 +369,7 @@ a {
     }
 
     .temp {
-        margin-left: -20rem;
+        margin-left: -30rem;
         margin-top: 5rem;
     }
 
