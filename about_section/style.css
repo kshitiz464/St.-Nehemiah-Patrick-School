@@ -15,7 +15,7 @@ html {
 
 
 
-.head {
+.contact {
     padding: 0rem 3rem 0rem 3rem;
     color: #9e9d9d;
     height: 56px;
@@ -59,6 +59,7 @@ html {
 
 }
 
+
 .name-image {
     height: 80px;
     width: 330px;
@@ -67,7 +68,7 @@ html {
     background-repeat: no-repeat;
 }
 
-.navbar {
+.head {
     display: flex;
     justify-content: center;
     padding: 0rem 3rem 0rem 3rem;
@@ -78,7 +79,7 @@ a {
     color: white;
 }
 
-.head_mail {
+.contact_mail {
     color: white;
     display: flex;
     justify-items: center;
