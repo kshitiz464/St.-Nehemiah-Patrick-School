@@ -4,6 +4,10 @@
     border: border-box;
 }
 
+html,
+body {
+    overflow-x: hidden;
+}
 html {
     width: 100vw;
     height: 100vh;
