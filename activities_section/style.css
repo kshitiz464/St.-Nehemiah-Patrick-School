@@ -28,7 +28,7 @@ html {
     justify-content: center; */
     height: 100px;
     width: 150px;
-    background-image: url("photos/logo.png");
+    background-image: url("/photos/logo.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -38,7 +38,7 @@ html {
     justify-content: center; */
     height: 130px;
     width: 180px;
-    background-image: url("photos/logo.png");
+    background-image: url("/photos/logo.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -58,7 +58,7 @@ html {
 .name-image {
     height: 80px;
     width: 330px;
-    background-image: url("photos/name.png");
+    background-image: url("/photos/name.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -205,7 +205,7 @@ a {
 /* .hero_pic {
     position: relative;  
     top:-1.8rem;  
-    background-image: url("photos/slide3.jpg");
+    background-image: url("/photos/slide3.jpg");
     height: 40rem;
     width: auto;
     background-size: cover;
@@ -281,7 +281,7 @@ a {
 .left_img_bk {
     width: 2rem;
     height: 4rem;
-    background-image: url(photos/title-shp1.png);
+    background-image: url(/photos/title-shp1.png);
     /* transform: rotate(45deg); */
     background-size: cover;
 }
