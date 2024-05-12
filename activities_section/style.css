@@ -4,6 +4,11 @@
     border: border-box;
 }
 
+html,
+body {
+    overflow-x: hidden;
+}
+
 html {
     width: 100vw;
     height: 100vh;
@@ -205,7 +210,7 @@ a {
 /* .hero_pic {
     position: relative;  
     top:-1.8rem;  
-    background-image: url("/photos/slide3.jpg");
+    background-image: url("photos/slide3.jpg");
     height: 40rem;
     width: auto;
     background-size: cover;
@@ -286,3 +291,86 @@ a {
     background-size: cover;
 }
 
+@media screen and (max-width: 1033px) {
+    .phone {
+        visibility: hidden;
+    }
+
+    .phone_content_position {
+        margin-top: -7rem;
+    }
+
+    .phone_font {
+        font-size: 1.5rem;
+    }
+
+    .phone_content_position2 {
+        margin-bottom: 3rem;
+    }
+
+    .nophone5 {
+        display: block;
+        display: none;
+    }
+
+    .def_width1 {
+        text-align: start;
+        width: 90vw;
+    }
+
+    .temp {
+        margin-left: -20rem;
+        margin-top: 5rem;
+    }
+
+    /* .container1{
+        border-top: 1px solid black;
+        margin-top:-1rem ;
+        
+    }
+    .container2{
+        padding-bottom: -8rem;
+    }
+     */
+    .left_article{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .container1{
+        padding-top: 5rem;
+    }
+    .container2{
+        padding-left: 0;
+    }
+    .container3{
+        padding-left: 0;
+    }
+    .principal_bio{
+        border-bottom: 2px solid rgba(0, 0, 0, 0.4);
+        
+    }
+
+}
+
+/* @media screen and (min-width: 1033px) {
+    .forphone{
+        
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+} */
+.phone2 {
+    max-width: 540px;
+}
+
+.btn{
+    color:#d5d5d5;
+    border:none;
+}
+
+.items{
+    background:#e3e1e1;
+}

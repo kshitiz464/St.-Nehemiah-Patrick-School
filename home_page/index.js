@@ -13,9 +13,3 @@
 // ScrollReveal().reveal('.principal_section_left', { easing: "ease-in", delay: 150 });
 // ScrollReveal().reveal('.principal_bio', { easing: "ease-in", delay:150 });
 // ScrollReveal().reveal('.principal_welcome', { easing: "ease-in", delay:150 });
-
-
-// footer code
-
-
-

@@ -8,14 +8,9 @@ html,
 body {
     overflow-x: hidden;
 }
-html {
-    width: 100vw;
-    height: 100vh;
-}
 
 
-
-.contact {
+.head {
     padding: 0rem 3rem 0rem 3rem;
     color: #9e9d9d;
     height: 56px;
@@ -59,7 +54,6 @@ html {
 
 }
 
-
 .name-image {
     height: 80px;
     width: 330px;
@@ -68,7 +62,7 @@ html {
     background-repeat: no-repeat;
 }
 
-.head {
+.navbar {
     display: flex;
     justify-content: center;
     padding: 0rem 3rem 0rem 3rem;
@@ -79,7 +73,7 @@ a {
     color: white;
 }
 
-.contact_mail {
+.head_mail {
     color: white;
     display: flex;
     justify-items: center;
@@ -210,7 +204,7 @@ a {
 /* .hero_pic {
     position: relative;  
     top:-1.8rem;  
-    background-image: url("/photos/slide3.jpg");
+    background-image: url("photos/slide3.jpg");
     height: 40rem;
     width: auto;
     background-size: cover;
@@ -337,4 +331,27 @@ a {
 .container3{
     padding-top: 2rem;
     padding-left: 30rem;
+}
+
+@media screen and (max-width:1033px){
+    .p_hide{
+        visibility: hidden;
+    }
+    .P_padding1{
+        margin-left: 2rem;
+        margin-top:-3rem;
+    }
+    .a{
+        position: relative;
+        top:1rem;
+    }
+    .content{
+        margin:0;
+        /* display:flex;
+        flex-direction: column  ;
+        align-items: center;
+        justify-content: center; */
+        position: relative;
+        top:10rem;
+    }
 }
